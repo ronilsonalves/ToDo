@@ -1,5 +1,5 @@
-# Projeto ToDo - Checkpoint II - Front End II
-Olá, este web app ToDo (lista de coisas a fazer) tem como objetivo servir como segundo instrumento avaliativo da disciplina de Front End II e está sendo desenvolvido pelos integrandes da mesa ##:
+# Projeto ToDo - Checkpoint II - Front End II - Versão Itegrada com Firebase Auth e Realtime Database
+Olá, este web app ToDo (lista de coisas a fazer) tem como objetivo servir como segundo instrumento avaliativo da disciplina de Front End II e está sendo desenvolvido pelos integrandes da mesa 02:
 
  - [Aloisio Carvalho](https://github.com/aloisiot)
  - [Gabriel Santos](https://github.com/gSantosP)
